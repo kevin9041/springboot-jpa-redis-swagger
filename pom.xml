@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.misrobot.springcloud</groupId>
-	<artifactId>myspringcloudbook</artifactId>
+	<artifactId>springboot_jpa_redis_swagger</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>myspringcloudbook</name>
+	<name>springboot_jpa_redis_swagger</name>
 	<description></description>
 
 	<parent>
@@ -57,6 +57,5 @@
 			</plugin>
 		</plugins>
 	</build>
-
 
 </project>
